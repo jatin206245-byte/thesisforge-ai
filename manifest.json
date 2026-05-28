@@ -1,0 +1,25 @@
+{
+  "short_name": "ThesisForge",
+  "name": "ThesisForge AI - Academic Writing Platform",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "description": "AI-powered thesis writing platform with plagiarism checker, grammar check, and citations generator",
+  "orientation": "portrait-primary",
+  "categories": ["education", "productivity"]
+}
